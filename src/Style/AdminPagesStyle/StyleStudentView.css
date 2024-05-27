@@ -1,0 +1,75 @@
+.xx{
+width: 100%;
+min-height: 100vh;
+}
+.view-students{
+  width: 100%;
+  height: 100%;
+  background-color:  rgb(155, 238, 197);
+}
+
+
+.StudentViewTable{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 4px;
+    font-weight: 600;
+    width: 700px;
+}
+
+.StudentViewTable td{
+padding: 10px;
+}
+.DeleteAll button{
+color: red;
+width: 90px;
+font-size: 13px;
+font-weight: bold;
+}
+.DeleteAll button:hover{
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+.AddStuTitle{
+    font-size: 20px;
+    font-weight: bold;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.imgref{
+    width: 20px;
+    height: 18px;
+    margin-left: 10px;
+}
+.refresh-btn{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.searchBox{
+    padding: 10px;
+    
+}
+.searchBox input{
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
+.custom-table {
+   border: 3px solid black;
+  border-radius: 50px;
+}
+
+.custom-table th, .custom-table td {
+  border: 2px solid black;
+  text-align: left;
+}
+
+.custom-table th {
+  background-color: #f2f2f2; 
+}
+
+
+  /* .tableDiv{
+    position: relative;
+    justify-content: center;
+} */
