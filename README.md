@@ -1,7 +1,7 @@
 # pariksha_portal_frontend
 Pariksha-Portal CDAC Project frontend
 Link to Backend Repo of pariksha portal
-https://github.com/Mehdi9721/pariksha-portal-backend
+https://github.com/Dwarkesh29032001/pariksha_portal_Backend.git
 
 pariksha-portal 👔✨ (Frontend Only)
 BY 3SD
